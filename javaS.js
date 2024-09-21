@@ -1,6 +1,6 @@
 
 function changeImage()
 {
-  document.getElementById('imgP1').src = "talkingphoto1.jpeg";
+  document.getElementById('imgP1').src = "takingphoto1.jpeg";
   
 }

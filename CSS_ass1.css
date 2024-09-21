@@ -16,6 +16,7 @@ section {
 }
 .abc{
 	width: 25%;
+	display: flex;
 }
 
 .abc img{

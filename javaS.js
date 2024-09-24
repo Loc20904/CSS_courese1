@@ -10,5 +10,5 @@ function randomImg(id){
 
 	random = arrImg[Math.floor(Math.random()* arrImg.length)];
 
-	document.getElementById("id").src = random;
+	document.getElementById('imgP1').src = random;
 }
